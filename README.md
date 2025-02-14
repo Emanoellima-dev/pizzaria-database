@@ -24,3 +24,6 @@ tabelas principais:
   - `Entrega`: Armazena informações como a data da entrega, horario e esatus
   - `Exames`: Cadastro de exames disponíveis no posto de saúde.
   - `Pagamento`: Tabela usada para armazenar o tipo de pagamento e a data do pagamento e o total.
+
+## Como usar
+1. clone o repositório
