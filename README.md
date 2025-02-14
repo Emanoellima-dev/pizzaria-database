@@ -5,7 +5,7 @@ Este é mais um projeto acadêmico de um banco de dados (POSTGRESQL) usado para 
 ## Tecnologias Usadas
 - banco de dados POSTGRESQL
 - linguagem SQL
-- ferramenta de gerenciamento: DBeave
+- ferramenta de gerenciamento: DBeaver
 
 ## Funcionalidades
 - Cadastro de novos clientes
@@ -27,3 +27,11 @@ tabelas principais:
 
 ## Como usar
 1. clone o repositório
+  ```bash
+  git clone https://github.com/Emanoellima-dev/pizzaria-database/tree/main
+```
+2. importe o arquivo sql em seu banco de dados postgresql usando o software de sua preferencia.
+3. acesse o banco de dados e realize as consultas.
+
+## Observações
+este é mais um projeto acadêmico feito apenas para aprimorar meus conhecimento em sql usando postgresql por isso não estou aceitando contribuições ao projeto no momento.
