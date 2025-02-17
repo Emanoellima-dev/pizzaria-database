@@ -1,6 +1,4 @@
-# reataurante-db
-
-Este é mais um projeto acadêmico de um banco de dados# pizzaria-database
+# pizzaria-database
 
 Este é mais um projeto acadêmico de um banco de dados (POSTGRESQL) usado para gerenciar operações em um pizzaria fictícia. Ele inclui tabelas para cadastro de clientes, pedidos, entregas e etc. permitindo rastrear e manipular a situação da pizzaria além de melhora a organização.
 
@@ -30,7 +28,7 @@ tabelas principais:
 ## Como usar
 1. clone o repositório
   ```bash
-  git clone https://github.com/Emanoellima-dev/pizzaria-database/tree/main
+  git clone https://github.com/Emanoellima-dev/pizzaria-database
 ```
 2. importe o arquivo [pizzaria.sql](https://github.com/Emanoellima-dev/pizzaria-database/blob/main/pizzaria.sql) em seu banco de dados postgresql usando o software de sua preferencia.
 3. acesse o banco de dados e realize as consultas.
