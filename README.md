@@ -26,7 +26,7 @@ tabelas principais:
 ## Como usar
 1. clone o repositório
   ```bash
-  git clone https://github.com/Emanoellima-dev/pizzaria-database/tree/main
+  git clone https://github.com/Emanoellima-dev/pizzaria-database
 ```
 2. importe o arquivo [pizzaria.sql](https://github.com/Emanoellima-dev/pizzaria-database/blob/main/pizzaria.sql) em seu banco de dados postgresql usando o software de sua preferencia.
 3. acesse o banco de dados e realize as consultas.
