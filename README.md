@@ -19,8 +19,8 @@ tabelas principais:
 
   - `clientes`: Gerencia os dados dos clientes.
   - `itens_menu`: Armazena informações sobre as pizzas.
-  - `Pedido`: Armazena os pedidos de cada cliente.
-  - `ItemPedido`: Contém informações sobre quantidade de pizzas pedidas, qual cliente fez o pedido.
+  - `mesas`: Armazena os pedidos de cada cliente.
+  - `pedidos`: Contém informações sobre quantidade de pizzas pedidas, qual cliente fez o pedido.
   - `Entrega`: Armazena informações como a data da entrega, horario e esatus
   - `Exames`: Cadastro de exames disponíveis no posto de saúde.
   - `Pagamento`: Tabela usada para armazenar o tipo de pagamento e a data do pagamento e o total.
