@@ -18,7 +18,7 @@ Este é mais um projeto acadêmico de um banco de dados (POSTGRESQL) usado para 
 tabelas principais:
 
   - `clientes`: Gerencia os dados dos clientes.
-  - `Pizza`: Armazena informações sobre as pizzas.
+  - `itens_menu`: Armazena informações sobre as pizzas.
   - `Pedido`: Armazena os pedidos de cada cliente.
   - `ItemPedido`: Contém informações sobre quantidade de pizzas pedidas, qual cliente fez o pedido.
   - `Entrega`: Armazena informações como a data da entrega, horario e esatus
